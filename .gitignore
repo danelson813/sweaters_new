@@ -1,0 +1,21 @@
+# Byte-compiled/cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+**/.venv/
+
+# Logs
+logs/
+
+# environment variables
+.env
+
+#IDEs/Editors
+__pychaache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
